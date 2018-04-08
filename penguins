@@ -1,0 +1,56 @@
+<html>
+  <head>
+  <title> save the penguins </title>
+
+    <!--the head section is informat....-->
+    
+    </head>
+    <body>
+      <header>
+        <h1> 
+        Save the penguins
+        </h1>
+      </header>
+
+      <nav>
+        <ul>
+          <li> 
+           <a href="index.html">  home  </a>
+          </li>
+          <li> 
+            <a href="donate.html"> donate <a/>
+          </li>
+          <li> 
+            volunteer 
+          </li>
+          <li> 
+            about us 
+          </li>
+
+    
+        </ul>
+      </nav>
+
+      <section>
+         <p> 
+           Actoss the <a href="https://en.wikipedia.org/wiki/Antarctica"> antarctic </a> peninsula penguin colonies are being devesated by the effects of climate change. When it warms it rains when it rains.
+           </p> 
+           <article>
+                <h2> gentoo </h2>
+                <img src="penguin 1.jpg>
+                
+                <placeholder text about gentoos </P>
+         </article>
+         <article>
+             <h2> chinstrap </h2>
+             <placeholder text about gentoos </P>
+         </article>
+         <article>
+                <h2> adelei </h2>
+             <placeholder text about gentoos </P>
+         </article>
+         
+      </section>
+
+    </body>
+  <html>
